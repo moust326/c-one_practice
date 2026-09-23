@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C#TASKS FILE\Home_assignment_ca242\Home_assignment_ca242\bin\Debug\Home_assignment_ca242.exe.config
+C:\Users\HP\Desktop\C#TASKS FILE\Home_assignment_ca242\Home_assignment_ca242\bin\Debug\Home_assignment_ca242.exe
+C:\Users\HP\Desktop\C#TASKS FILE\Home_assignment_ca242\Home_assignment_ca242\bin\Debug\Home_assignment_ca242.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\Home_assignment_ca242\Home_assignment_ca242\obj\Debug\Home_assignment_ca242.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#TASKS FILE\Home_assignment_ca242\Home_assignment_ca242\obj\Debug\Home_assignment_ca242.Form1.resources
+C:\Users\HP\Desktop\C#TASKS FILE\Home_assignment_ca242\Home_assignment_ca242\obj\Debug\Home_assignment_ca242.Properties.Resources.resources
+C:\Users\HP\Desktop\C#TASKS FILE\Home_assignment_ca242\Home_assignment_ca242\obj\Debug\Home_assignment_ca242.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#TASKS FILE\Home_assignment_ca242\Home_assignment_ca242\obj\Debug\Home_assignment_ca242.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#TASKS FILE\Home_assignment_ca242\Home_assignment_ca242\obj\Debug\Home_assignment_ca242.exe
+C:\Users\HP\Desktop\C#TASKS FILE\Home_assignment_ca242\Home_assignment_ca242\obj\Debug\Home_assignment_ca242.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\Home_assignment_ca242\Home_assignment_ca242\obj\Debug\Home_assignment_ca242.exe.config
